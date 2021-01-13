@@ -1,0 +1,104 @@
+body {
+	background: #FBF0CD;
+	background-size: cover;
+}
+
+.kotak1{
+	background: #FFFF;
+	padding: 300px;
+	border-radius: 8px;
+	height: 0px;
+	width: 300px;
+	position: absolute;
+	left: 230px;
+	bottom: 230px;
+	top: 25px
+}
+
+.kotak2{
+	background: #E1DEDE;
+	padding: 80px;
+	border-radius: 8px;
+	height: 0px;
+	width: 60px;
+	position: absolute;
+	left: 230px;
+	bottom: 230px;
+	top: 25px	
+}
+
+.isian1{
+	position: absolute;
+	font-size: 15px;
+	color: #9D9696;
+	left: 240px;
+	top: 40px
+}
+
+.isian2{
+	position: absolute;
+	font-size: 15px;
+	color: #9D9696;
+	left: 240px;
+	top: 70px
+}
+
+.isian3{
+	position: absolute;
+	font-size: 15px;
+	color: #9D9696;
+	left: 240px;
+	top: 100px
+}
+
+.isian4{
+	position: absolute;
+	font-size: 15px;
+	color: #9D9696;
+	left: 240px;
+	top: 130px
+}
+
+.qheader{
+	position: absolute;
+	left: 50px;
+	top: 180px;
+}
+
+.qselections{
+	position: absolute;
+	left: 50px;
+	top: 200px
+}
+
+.qheader2{
+	position: absolute;
+	left: 50px;
+	top: 300px;
+}
+
+.qselections2{
+	position: absolute;
+	left: 50px;
+	top: 320px
+}
+
+.kotak3{
+	background: #173EFF;
+	padding: 20px;
+	border-radius: 8px;
+	height: 0px;
+	width: 20px;
+	position: absolute;
+	left: 400px;
+	bottom: 230px;
+	top: 500px
+}
+
+.kotak3 .send .kirim{
+	text-decoration: none;
+	color: #FFFF;
+	position: absolute;
+	bottom: 13px;
+	left: 13px
+}

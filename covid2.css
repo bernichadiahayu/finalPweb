@@ -1,0 +1,184 @@
+body{
+
+	background:linear-gradient(to right,#F8D37B,#FFFFFF);
+	color: #674512;
+	line-height: 20px;
+	background-attachment: fixed;
+	background-position:inherit;}
+
+.mencuci {
+	width: 200px;
+	margin-left: 500px;
+	position: absolute;
+	top: 2000px;
+	right: 500px}
+
+.jarak {
+	width: 200px;
+	margin-left: 970px;
+	position: absolute;
+	top: 1835px;}
+
+#Covid .Kotak{
+	background: #F5DA99;
+	padding: 30px;
+	border-radius: 8px;
+	height:535px;
+	width:1000px;
+	position:absolute;
+	left:125px;
+	top:30px;}
+
+#Covid .Kotak .Text1{
+	font-size: 30px;
+	font-family: 'Britannic';
+	position: absolute;
+	left:160px;}
+
+#Covid .Kotak .Text2{
+	font-size: 30px;
+	font-family: 'Britannic';
+	position: absolute;
+	left:170px;
+	top:90px;}
+
+#Covid .Kotak .Gambar1{
+	width:30px;
+	position: absolute;
+	left: 190px;
+	top:100px;
+	opacity:0.8}
+
+#Covid .Kotak .Gambar2{
+	width:30px;
+	position: absolute;
+	left:50px;}
+
+#Covid .Kotak .Gambar3{
+	width:30px;
+	position: absolute;
+	left:500px;
+	top:490px;
+	opacity: 0.8}
+
+#Covid .Kotak .Gambar4{
+	width:30px;
+	position: absolute;
+	left:150px;
+	top:550px;
+	opacity: 0.8}
+
+#Covid .Kotak .Gambar5{
+	width:30px;
+	position: absolute;
+	left:85px;
+	top:400px;
+	opacity: 0.5}
+
+#Covid .Kotak .Gambar6{
+	width:30px;
+	position: absolute;
+	left:400px;
+	top:220px;
+	opacity: 0.5}
+
+#Covid .Kotak .Teks1{
+	font-size:15px;
+	position: absolute;
+	top:150px;
+	font-family: 'Cambria'}
+
+#Covid .Kotak .Teks2{
+	font-size:15px;
+	position: absolute;
+	top:250px;
+	font-family: 'Cambria'}
+
+#Covid .Kotak .Teks3{
+	font-size:15px;
+	position: absolute;
+	top:410px;
+	font-family: 'Cambria'}
+
+#Covid .Kotak .Teks4{
+	font-size:15px;
+	position: absolute;
+	top:490px;
+	font-family: 'Cambria'}
+
+#Covid .Kotak .Bundar{
+	width:190px;
+	position: absolute;
+	bottom:350px;
+	left:550px;}
+
+#Covid .Kotak .Masker{
+	width:100px;
+	position: absolute;
+	left:590px;
+	top:90px;}
+
+#Covid .Kotak .Bundar2{
+	width:190px;
+	position: absolute;
+	top:200px;
+	left:800px;}
+
+#Covid .Kotak .Wash{
+	width:180px;
+	position: absolute;
+	left:800px;
+	top:200px;}
+
+#Covid .Kotak .Bundar3{
+	width:190px;
+	position: absolute;
+	top:350px;
+	left:560px;}
+
+#Covid .Kotak .Jarak{
+	width:130px;
+	position: absolute;
+	top:395px;
+	left:590px;}
+
+#Covid .Kalimat{
+	font-size: 16px;
+	font-family: 'Britannic';
+	position:absolute;
+	left:590px;
+	top:250px;}
+
+#Covid .Kalimat2{
+	font-size: 16px;
+	font-family: 'Britannic';
+	position:absolute;
+	left:850px;
+	top:380px;}
+
+#Covid .Kalimat3{
+	font-size: 16px;
+	font-family: 'Britannic';
+	position:absolute;
+	left:590px;
+	top:530px;}
+
+#Covid .Home{
+	width: 30px;
+	position: absolute;
+	left:900px;
+	opacity: 0.6}
+
+#Covid .Kotak .Gambar7{
+	width: 30px;
+	position:absolute;
+	left:890px;
+	top:500px;
+	opacity: 0.8}
+
+#Covid .Kotak .Gambar8{
+	width: 30px;
+	position: absolute;
+	left:800px;
+	top:100px;
+	opacity: 0.8}

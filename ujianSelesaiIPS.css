@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+	background: #F8E6B7
+}
+
+.centang img{
+	position: absolute;
+	width: 120px;
+	left: 580px;
+	top: 150px
+}
+
+.lihatJawaban{
+	width:150px;
+	height: 50px;
+	background: #EFBF6A;
+	border-radius: 8px;
+	text-align: center;
+	position: absolute;
+	left:970px;
+	bottom:570px;
+	cursor: pointer
+}
+
+.lihatJawaban p{
+	color:#717171;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.tulisan .abc{
+	position: absolute;
+	font-size: 40px;
+	font-family: 'Bebas Neue', cursive;
+	left: 550px;
+	top: 300px
+}
+
+.tulisan2 .abc2{
+	position: absolute;
+	font-size: 40px;
+	font-family: 'Bebas Neue', cursive;
+	left: 557px;
+	top: 370px
+}
+
+.logout img{
+	position: absolute;
+	width: 40px;
+	left: 1250px;
+	top: 40px
+}
+
+.home img{
+	position: absolute;
+	width: 40px;
+	left: 1180px;
+	top: 35px
+}

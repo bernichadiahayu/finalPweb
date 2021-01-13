@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
+
+body{
+	background: #FEECC3;
+
+}
+
+.kotak{
+	background: #C1AB74;
+	padding: 150px;
+	width: 500px;
+	position: absolute;
+	left: 280px;
+	top: 70px
+}
+
+.kotak .judul .about{
+	position: absolute;
+	left: 330px;
+	top: 60px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 35px
+
+}
+
+.kotak .isian .abc{
+	position: center;
+	top: 170px;
+	left: 50px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.home img{
+	position: absolute;
+	left: 700px;
+	width: 30px;
+	top: 40px
+}

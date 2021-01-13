@@ -1,0 +1,65 @@
+body{
+	background:url(pilih.png) no-repeat;
+	background-size: cover;
+}
+
+#Smp{
+	font-size: 30px;
+	position: absolute;
+	top: 410px;
+	left: 350px;
+	color: #7A7979}
+
+.SMP{
+	text-decoration: none;
+	color: #7A7979;
+	font-size: 30px;}
+
+
+#Sd{
+	font-size: 30px;
+	position: absolute;
+	top: 425px;
+	right: 310px;
+	color: #7A7979}
+
+.Sd{
+	text-decoration: none;
+	color: #7A7979;
+	font-size: 30px;}
+
+
+@media(min-width:280px) and (max-width:1300px){
+	body{
+		background-size: 100%
+	}
+	#Smp{
+		font-size:15px;
+		position: absolute;
+		top:95px;
+		left:880px;
+		color:white;
+	}
+	.SMP{
+		text-decoration: none;
+		color: white;
+		font-size:15px;
+		position: absolute;
+		right:680px;
+		top:110px;
+	}
+	#Sd{
+		font-size:15px;
+		position: absolute;
+		top:210px;
+		left:500px;
+		color:white}
+	.Sd{
+		text-decoration: none;
+		color:white;
+		font-size: 15px;
+		top:25px;
+		right:680px;
+	}
+}
+

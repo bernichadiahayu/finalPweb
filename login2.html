@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LOGIN</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet"href="login2.css">
+</head>
+<body>
+	<img class=GambarLogin src="gambarloginn.png">
+	<h1 id=text> Log In </h1>
+	<form method="post" name="form" onsubmit="return validasi()" action="dashboardsmp.html">
+		<input autocomplete="off" type="text"name="username" placeholder="Username" id="user">
+		<div id="userError">Harap isi form ini</div>
+		<input type="password" name="password" placeholder="Password" minlength="8" maxlength="20" id="pass">
+		<div id="passError">Harap isi form ini</div>
+		<button type="Submit" onclick="addname()">Login</button>
+	</form>
+	</div>
+	<script src="logiin.js"></script>
+</body>	
+</html>

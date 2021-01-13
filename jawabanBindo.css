@@ -1,0 +1,584 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+* {
+	margin : 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Josefin Sans', sans-serif;}
+
+body {
+	background: #FBF0CD;
+}
+
+.wrapper{
+	position: absolute;
+	width: 1347px
+}
+.wrapper .main_content{
+	margin-right:2px;}
+
+.wrapper .main_content .header{
+	padding:35px;
+	font-size:25px;
+	background: #FCDD95;
+	color : #717171;
+	border-bottom: 1px solid #e0e4e8}
+
+.kotak .form .semua .nomor1{
+	position: absolute;
+	left:100px;
+	top:50px;
+}
+
+.kotak .form .semua .A1{
+	position: absolute;
+	left:100px;
+	top:150px;
+}
+.kotak .form .semua .jwbA1{
+	position: absolute;
+	left:130px;
+	top:150px;
+}
+.kotak .form .semua .B1{
+	position: absolute;
+	left:100px;
+	top:180px;
+}
+.kotak .form .semua .jwbB1{
+	position: absolute;
+	left:130px;
+	top:180px;
+}
+
+.kotak .form .semua .C1{
+	position: absolute;
+	left:100px;
+	top:210px;
+}
+
+.kotak .form .semua .jwbC1{
+	position: absolute;
+	left:130px;
+	top:210px;
+}
+
+.kotak .form .semua .D1{
+	position: absolute;
+	left:100px;
+	top:240px;
+}
+
+.kotak .form .semua .jwbD1{
+	position: absolute;
+	left:130px;
+	top:240px;
+}
+
+.kotak .form .semua .nomor2{
+	position: absolute;
+	left:500px;
+	top:50px;
+}
+
+.kotak .form .semua .A2{
+	position: absolute;
+	left:500px;
+	top:150px;
+}
+
+.kotak .form .semua .jwbA2{
+	position: absolute;
+	left:530px;
+	top:150px;
+}
+
+.kotak .form .semua .B2{
+	position: absolute;
+	left:500px;
+	top:180px;
+}
+
+.kotak .form .semua .jwbB2{
+	position: absolute;
+	left:530px;
+	top:180px;
+}
+
+.kotak .form .semua .C2{
+	position: absolute;
+	left:500px;
+	top:210px;
+}
+
+.kotak .form .semua .jwbC2{
+	position: absolute;
+	left:530px;
+	top:210px;
+}
+
+.kotak .form .semua .D2{
+	position: absolute;
+	left:500px;
+	top:240px;
+}
+
+.kotak .form .semua .jwbD2{
+	position: absolute;
+	left:530px;
+	top:240px;
+}
+
+.kotak .form .semua .nomor3{
+	position: absolute;
+	left:950px;
+	top:50px;
+}
+
+.kotak .form .semua .A3{
+	position: absolute;
+	left:950px;
+	top:100px;
+}
+
+.kotak .form .semua .jwbA3{
+	position: absolute;
+	left:980px;
+	top:100px;
+}
+
+.kotak .form .semua .B3{
+	position: absolute;
+	left:950px;
+	top:150px;
+}
+
+.kotak .form .semua .jwbB3{
+	position: absolute;
+	left:980px;
+	top:150px;
+}
+
+.kotak .form .semua .jwbC3{
+	position: absolute;
+	left:980px;
+	top:180px;
+}
+
+.kotak .form .semua .C3{
+	position: absolute;
+	left:950px;
+	top:180px;
+}
+
+.kotak .form .semua .D3{
+	position: absolute;
+	left:950px;
+	top:240px;
+}
+
+.kotak .form .semua .jwbD3{
+	position: absolute;
+	left:980px;
+	top:240px;
+}
+
+.kotak .form .semua .nomor4{
+	position: absolute;
+	left:100px;
+	top:300px;
+}
+
+.kotak .form .semua .A4{
+	position: absolute;
+	left:100px;
+	top:380px;
+}
+
+.kotak .form .semua .jwbA4{
+	position: absolute;
+	left:130px;
+	top:380px;
+}
+
+.kotak .form .semua .B4{
+	position: absolute;
+	left:100px;
+	top:410px;
+}
+
+.kotak .form .semua .jwbB4{
+	position: absolute;
+	left:130px;
+	top:410px;
+}
+
+.kotak .form .semua .C4{
+	position: absolute;
+	left:100px;
+	top:440px;
+}
+
+.kotak .form .semua .jwbC4{
+	position: absolute;
+	left:130px;
+	top:440px;
+}
+
+.kotak .form .semua .D4{
+	position: absolute;
+	left:100px;
+	top:470px;
+}
+
+.kotak .form .semua .jwbD4{
+	position: absolute;
+	left:130px;
+	top:470px;
+}
+
+.kotak .form .semua .nomor5{
+	position: absolute;
+	left:500px;
+	top:300px;
+}
+
+.kotak .form .semua .A5{
+	position: absolute;
+	left:500px;
+	top:380px;
+}
+
+.kotak .form .semua .jwbA5{
+	position: absolute;
+	left:530px;
+	top:380px;
+}
+
+.kotak .form .semua .B5{
+	position: absolute;
+	left:500px;
+	top:410px;
+}
+
+.kotak .form .semua .jwbB5{
+	position: absolute;
+	left:530px;
+	top:410px;
+}
+
+.kotak .form .semua .C5{
+	position: absolute;
+	left:500px;
+	top:440px;
+}
+
+.kotak .form .semua .jwbC5{
+	position: absolute;
+	left:530px;
+	top:440px;
+}
+
+.kotak .form .semua .D5{
+	position: absolute;
+	left:500px;
+	top:470px;}
+
+.kotak .form .semua .jwbD5{
+	position: absolute;
+	left:530px;
+	top:470px;}
+
+.kotak .form .semua .nomor6{
+	position: absolute;
+	left:950px;
+	top:300px;
+}
+
+.kotak .form .semua .A6{
+	position: absolute;
+	left:950px;
+	top:350px;
+}
+
+.kotak .form .semua .jwbA6{
+	position: absolute;
+	left:980px;
+	top:350px;
+}
+
+.kotak .form .semua .B6{
+	position: absolute;
+	left:950px;
+	top:380px;
+}
+
+.kotak .form .semua .jwbB6{
+	position: absolute;
+	left:980px;
+	top:380px;
+}
+
+.kotak .form .semua .C6{
+	position: absolute;
+	left:950px;
+	top:410px;
+}
+
+.kotak .form .semua .jwbC6{
+	position: absolute;
+	left:980px;
+	top:410px;
+}
+
+.kotak .form .semua .D6{
+	position: absolute;
+	left:950px;
+	top:470px;
+}
+
+.kotak .form .semua .jwbD6{
+	position: absolute;
+	left:980px;
+	top:470px;
+}
+
+.kotak .form .semua .nomor7{
+	position: absolute;
+	left:100px;
+	top:600px;
+}
+
+.kotak .form .semua .A7{
+	position: absolute;
+	left:100px;
+	top:670px;
+}
+
+.kotak .form .semua .jwbA7{
+	position: absolute;
+	left:130px;
+	top:670px;
+}
+
+.kotak .form .semua .B7{
+	position: absolute;
+	left:100px;
+	top:700px;
+}
+
+.kotak .form .semua .jwbB7{
+	position: absolute;
+	left:130px;
+	top:700px;
+}
+
+.kotak .form .semua .C7{
+	position: absolute;
+	left:100px;
+	top:730px;
+}
+
+
+.kotak .form .semua .jwbC7{
+	position: absolute;
+	left:130px;
+	top:730px;
+}
+
+.kotak .form .semua .D7{
+	position: absolute;
+	left:100px;
+	top:760px;
+}
+
+.kotak .form .semua .jwbD7{
+	position: absolute;
+	left:130px;
+	top:760px;
+}
+
+.kotak .form .semua .nomor8{
+	position: absolute;
+	left:500px;
+	top:600px;
+}
+
+.kotak .form .semua .A8{
+	position: absolute;
+	left:500px;
+	top:670px;
+}
+
+.kotak .form .semua .jwbA8{
+	position: absolute;
+	left:530px;
+	top:670px;
+}
+
+.kotak .form .semua .B8{
+	position: absolute;
+	left:500px;
+	top:700px;
+}
+
+.kotak .form .semua .jwbB8{
+	position: absolute;
+	left:530px;
+	top:700px;
+}
+
+.kotak .form .semua .C8{
+	position: absolute;
+	left:500px;
+	top:730px;
+}
+
+.kotak .form .semua .jwbC8{
+	position: absolute;
+	left:530px;
+	top:730px;
+}
+
+.kotak .form .semua .D8{
+	position: absolute;
+	left:500px;
+	top:760px;
+}
+
+.kotak .form .semua .jwbD8{
+	position: absolute;
+	left:530px;
+	top:760px;
+}
+
+.kotak .form .semua .nomor9{
+	position: absolute;
+	left:950px;
+	top:600px;
+}
+
+.kotak .form .semua .A9{
+	position: absolute;
+	left:950px;
+	top:670px;
+}
+
+.kotak .form .semua .jwbA9{
+	position: absolute;
+	left:980px;
+	top:670px;
+}
+
+.kotak .form .semua .B9{
+	position: absolute;
+	left:950px;
+	top:700px;
+}
+
+.kotak .form .semua .jwbB9{
+	position: absolute;
+	left:980px;
+	top:700px;
+}
+
+.kotak .form .semua .C9{
+	position: absolute;
+	left:950px;
+	top:730px;
+}
+
+.kotak .form .semua .jwbC9{
+	position: absolute;
+	left:980px;
+	top:730px;
+}
+
+.kotak .form .semua .D9{
+	position: absolute;
+	left:950px;
+	top:760px;
+}
+
+.kotak .form .semua .jwbD9{
+	position: absolute;
+	left:980px;
+	top:760px;
+}
+
+.kotak .form .semua .nomor10{
+	position: absolute;
+	left:100px;
+	top:840px;
+}
+
+.kotak .form .semua .A10{
+	position: absolute;
+	left:100px;
+	top:900px;
+}
+
+.kotak .form .semua .jwbA10{
+	position: absolute;
+	left:130px;
+	top:900px;
+}
+
+.kotak .form .semua .B10{
+	position: absolute;
+	left:100px;
+	top:930px;
+}
+
+.kotak .form .semua .jwbB10{
+	position: absolute;
+	left:130px;
+	top:930px;
+}
+
+.kotak .form .semua .C10{
+	position: absolute;
+	left:100px;
+	top:960px;
+}
+
+.kotak .form .semua .jwbC10{
+	position: absolute;
+	left:130px;
+	top:960px;
+}
+
+.kotak .form .semua .D10{
+	position: absolute;
+	left:100px;
+	top:990px;
+}
+
+.kotak .form .semua .jwbD10{
+	position: absolute;
+	left:130px;
+	top:990px;
+}
+
+.next{
+	width:100px;
+	height: 50px;
+	background: #EFBF6A;
+	border-radius: 8px;
+	text-align: center;
+	position: absolute;
+	left:1100px;
+	bottom:50px;
+	cursor: pointer;
+}
+#card{
+	background:#F3DCB3;
+	border-radius: 8px;
+	box-shadow: 1px 2px 8px;
+	height:1100px;
+	width:1300px;
+	position: absolute;
+	top:130px;
+	left:25px;
+}
